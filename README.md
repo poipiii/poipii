@@ -1,5 +1,5 @@
 # Hi there visitor 👋 
-My name is Juncheng, I enjoy tinkering with all things AI and occasionally dabble in some web development, I am currently an AI engineer intern at Panasonic working on multimodal AI 
+My name is Juncheng, I enjoy tinkering with all things AI and occasionally dabble in some web development, I am currently a Data Engineer in the Republic of Singapore airforce building data-driven applications to improve the lives of air servicemen and women 
 ### 🌐 You can find me on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loy-juncheng) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/poipii) 
